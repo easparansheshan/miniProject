@@ -1,6 +1,6 @@
 <template>
   <div class="container background mb-5" style="min-height: 500px;" >
-    <h1 style="font-family: 'Pushster', cursive" id="heading">Vue Todo App</h1>
+    <h1 style="font-family: 'Pushster', cursive" id="heading">Visit Tourists Places Reminder</h1>
     <!-- input table -->
     <div class="d-flex">
       <input

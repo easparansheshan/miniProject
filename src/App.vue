@@ -18,7 +18,7 @@
     <router-link
       :class="{ active: $route.name === 'Contactus' }"
       to="/Contactus"
-      >To-do app</router-link
+      >Reminder</router-link
     >
 
     <router-link :class="{ active: $route.name === 'About' }" to="/About"
@@ -52,14 +52,14 @@
 
       <!-- Right -->
       <div>
-        <a href="" class="me-4 text-reset">
+        <a href="https://www.facebook.com/Sheshan.H/" class="me-4 text-reset">
           <i class="fab fa-facebook-f"></i>
         </a>
-        <a href="" class="me-4 text-reset">
+        <a href="https://twitter.com/EasparanSheshan" class="me-4 text-reset">
           <i class="fab fa-twitter"></i>
         </a>
         
-        <a href="" class="me-4 text-reset">
+        <a href="https://www.instagram.com/sheshaneasparan/" class="me-4 text-reset">
           <i class="fab fa-instagram"></i>
         </a>
         <a href="https://www.linkedin.com/in/easparan-sheshan-97ba7418a/" class="me-4 text-reset">
@@ -106,6 +106,9 @@
             </p>
             <p>
               <a href="/hotels" class="text-reset">Hotels</a>
+            </p>
+            <p>
+              <a href="/Contactus" class="text-reset">Reminder</a>
             </p>
             <p>
               <a href="/about" class="text-reset">About</a>
