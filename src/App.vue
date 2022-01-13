@@ -130,6 +130,7 @@
             <p><i class="fas fa-phone me-3"></i> + 94 076 716 0699</p>
             <p><i class="fas fa-print me-3"></i> + 94 065 222 4377</p>
           </div>
+          
           <!-- Grid column -->
         </div>
         <!-- Grid row -->
@@ -146,7 +147,7 @@
   <!-- Footer -->
 </template>
 
-<style lang="scss">
+<style lang="scss"> 
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;

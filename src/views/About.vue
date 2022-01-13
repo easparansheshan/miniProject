@@ -16,7 +16,7 @@
         <p class="title">CEO</p>
         <p>I'm a front en developer </p>
         <p>easparansheshan456@gmail.com</p>
-        <p><button class="button">Contact</button></p>
+        <p><button class="button" ><a href="mailto:easparansheshan456@gmail.com">Contact</a></button></p>
       </div>
     </div>
   </div>

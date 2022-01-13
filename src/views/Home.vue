@@ -4,7 +4,7 @@
       <span id="heading">15 Top Tourist Attractions in Sri Lanka</span>
 
       <!-- st place -->
-      <h2>1.Temple of the Tooth</h2>
+      <h2 >1.Temple of the Tooth</h2>
       <p class="col-8 para">
         Sri Lanka is truly spellbinding and will suit any traveler’s interests
         with its top tourist attractions. The small island nation is chock-full
